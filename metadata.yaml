@@ -1,0 +1,30 @@
+_repo: The-Progress-of-the-Women-s-Suffrage-Movement-Presidential-Address-to-the-Cambridge-Branch-of__51578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidgwick, Eleanor Mildred
+    aliases:
+    - Sidgwick, Eleanor M. (Eleanor Mildred)
+    - Sidgwick, Mrs. Henry
+    - Balfour, Eleanor Mildred
+    - Sidgwick, Eleanor Mildred Balfour
+    birthdate: 1845
+    deathdate: 1936
+    gutenberg_agent_id: '46476'
+    url: http://www.gutenberg.org/2009/agents/46476
+description: ''
+gutenberg_issued: '2016-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- Great Britain'
+- !lcc 'JF'
+- GITenberg
+title: "The Progress of the Women's Suffrage Movement\r\nPresidential Address to the\
+  \ Cambridge Branch of the C. & U. W. F. A. at the Annual Meeting on May 23rd, 1913"
+url: http://www.gutenberg.org/ebooks/51578
